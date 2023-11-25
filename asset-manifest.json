@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.js": "/lobat/static/js/main.3648a1ec.js",
+    "static/js/915.9b2d372f.js": "/lobat/static/js/915.9b2d372f.js",
+    "static/media/MaterialCommunityIcons.ttf": "/lobat/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
+    "static/media/Base.jpg": "/lobat/static/media/Base.fcaeaf7cca13d3dde112.jpg",
+    "static/media/Ionicons.ttf": "/lobat/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
+    "static/media/FontAwesome.ttf": "/lobat/static/media/FontAwesome.1e59d2330b4c6deb84b3.ttf",
+    "static/media/Logo.png": "/lobat/static/media/Logo.96e9b2615a81a4caf219.png",
+    "static/media/AntDesign.ttf": "/lobat/static/media/AntDesign.163adab9dbd7cb1ed12a.ttf",
+    "static/media/Yekan-Light.ttf": "/lobat/static/media/Yekan-Light.aaaaece0a9a9638b0c18.ttf",
+    "static/media/Yekan-Medium.ttf": "/lobat/static/media/Yekan-Medium.425762078aac1e6d5c2f.ttf",
+    "static/media/Yekan.ttf": "/lobat/static/media/Yekan.57d21f9129237cea1fd3.ttf",
+    "static/media/Yekan-ExtraBold.ttf": "/lobat/static/media/Yekan-ExtraBold.d88a9d60c9aac43a82f3.ttf",
+    "static/media/Yekan-Bold.ttf": "/lobat/static/media/Yekan-Bold.b6da2dc47e3ed97283cd.ttf",
+    "static/media/Banner.jpg": "/lobat/static/media/Banner.95ea7997040d795ddf09.jpg",
+    "static/media/SimpleLineIcons.ttf": "/lobat/static/media/SimpleLineIcons.3ec13a24af3fdda11107.ttf",
+    "favicon.ico": "/lobat/favicon.ico",
+    "index.html": "/lobat/index.html",
+    "static/media/Avatar.png": "/lobat/static/media/Avatar.fedca0dca7dc6798afac.png",
+    "favicon-32.png": "/lobat/favicon-32.png",
+    "favicon-16.png": "/lobat/favicon-16.png",
+    "manifest.json": "/lobat/manifest.json",
+    "serve.json": "/lobat/serve.json",
+    "main.3648a1ec.js.map": "/lobat/static/js/main.3648a1ec.js.map",
+    "915.9b2d372f.js.map": "/lobat/static/js/915.9b2d372f.js.map"
+  },
+  "entrypoints": [
+    "static/js/915.9b2d372f.js",
+    "static/js/main.3648a1ec.js"
+  ]
+}
